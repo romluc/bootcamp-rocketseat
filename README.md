@@ -1,7 +1,10 @@
-# bootcamp-rocketseat
+# Bootcamp Rocketseat GoStack 2019
 Projects built during Rocketseat's Go-Stack Bootcamp 2019, using omnistack - nodejs + react + reactnative.
 
-### Restful API using nodejs + express built as part of bootcamps's first module
-- Testing express middleware
-- Using Insomnia to communicate with the APIs
+#### Module #1 - NodeJs first challenge
+
+### Goals
+- Build restful API using nodejs + express 
+- Test express middleware
+- Use Insomnia to communicate with the APIs
 
