@@ -1,4 +1,4 @@
-# Bootcamp Rocketseat GoStack 2019
+# Bootcamp Rocketseat GoStack 2019 :rocket:
 Projects built during Rocketseat's Go-Stack Bootcamp 2019, using omnistack - nodejs + react + reactnative.
 
 #### Module #1 - NodeJs first challenge
